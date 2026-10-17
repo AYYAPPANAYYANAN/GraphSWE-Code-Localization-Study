@@ -1,0 +1,2 @@
+Approximate manuscript word count: 2173
+Kaggle editor may count words differently; verify before submission.
